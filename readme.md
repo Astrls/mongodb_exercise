@@ -1,3 +1,6 @@
-### Training exercise on MungoDB 
+# Training exercise on MongoDB 
 
-## Creating a full stack app with Node.js, Express and MungoDB
+## Purpose
+This repo contains exercises designed to manipulate MongoDB.
+It tackles the concepts of *data modelling, querying, inserting*
+Data is hosted on MongoDB Atlas
